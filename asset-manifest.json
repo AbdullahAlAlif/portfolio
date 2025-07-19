@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.38822b3d.chunk.css",
+    "main.js": "/portfolio/static/js/main.a9345c22.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a9345c22.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.47e28c2a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.47e28c2a.js.map",
+    "static/js/2.b4adaf24.chunk.js": "/portfolio/static/js/2.b4adaf24.chunk.js",
+    "static/js/2.b4adaf24.chunk.js.map": "/portfolio/static/js/2.b4adaf24.chunk.js.map",
+    "static/js/3.67dfdea4.chunk.js": "/portfolio/static/js/3.67dfdea4.chunk.js",
+    "static/js/3.67dfdea4.chunk.js.map": "/portfolio/static/js/3.67dfdea4.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.38822b3d.chunk.css.map": "/portfolio/static/css/main.38822b3d.chunk.css.map",
+    "static/js/2.b4adaf24.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b4adaf24.chunk.js.LICENSE.txt",
+    "static/media/EDA.563a90c2.png": "/portfolio/static/media/EDA.563a90c2.png",
+    "static/media/Frontend.efadd223.png": "/portfolio/static/media/Frontend.efadd223.png",
+    "static/media/FullStack.e5f990ed.png": "/portfolio/static/media/FullStack.e5f990ed.png",
+    "static/media/App.css": "/portfolio/static/media/GeneralSans-VariableItalic.e4ae865b.woff",
+    "static/media/ML and AI APP.36012940.png": "/portfolio/static/media/ML and AI APP.36012940.png",
+    "static/media/ML model.478fa337.png": "/portfolio/static/media/ML model.478fa337.png",
+    "static/media/corejs.821f6b84.png": "/portfolio/static/media/corejs.821f6b84.png",
+    "static/media/corepython.ffef59c9.png": "/portfolio/static/media/corepython.ffef59c9.png",
+    "static/media/developer-dark.aa2700b5.svg": "/portfolio/static/media/developer-dark.aa2700b5.svg",
+    "static/media/developer.2f084608.svg": "/portfolio/static/media/developer.2f084608.svg",
+    "static/media/logo-dark.984184bc.png": "/portfolio/static/media/logo-dark.984184bc.png",
+    "static/media/logo-light.7754e561.png": "/portfolio/static/media/logo-light.7754e561.png",
+    "static/media/profile.9f60026e.jpeg": "/portfolio/static/media/profile.9f60026e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47e28c2a.js",
+    "static/js/2.b4adaf24.chunk.js",
+    "static/css/main.38822b3d.chunk.css",
+    "static/js/main.a9345c22.chunk.js"
+  ]
+}
