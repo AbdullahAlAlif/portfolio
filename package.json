@@ -7,6 +7,7 @@
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/react": "^13.4.0",
 		"@testing-library/user-event": "^14.4.3",
+		"babel-preset-react-app": "^10.0.0",
 		"emailjs-com": "^3.2.0",
 		"framer-motion": "4.1.17",
 		"postcss-cli": "^10.1.0",
@@ -22,12 +23,15 @@
 	},
 	"scripts": {
 		"start": "react-scripts --openssl-legacy-provider start",
-		"build": "yarn run react-scripts build",
+		"build": "node --openssl-legacy-provider ./node_modules/react-scripts/scripts/build.js",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
 		"build:css": "postcss src/css/tailwind.css -o src/css/main.css",
 		"predeploy": "npm run build",
-  		"deploy": "gh-pages -d build"
+		"deploy": "gh-pages -d build"
+	},
+	"resolutions": {
+	"@babel/core": "^7.16.0"
 	},
 	"eslintConfig": {
 		"extends": [
@@ -48,6 +52,8 @@
 		]
 	},
 	"devDependencies": {
+		"@babel/core": "^7.16.0",
+		"@babel/preset-env": "^7.16.0",
 		"@tailwindcss/forms": "^0.5.2",
 		"@testing-library/dom": "^8.20.0",
 		"autoprefixer": "^10.4.7",

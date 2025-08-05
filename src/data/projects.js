@@ -73,9 +73,9 @@ export const projectsData = [
 	},
 	{
 		id: 10,
-		title: 'LMS System',
+		title: 'CMS System',
 		category: 'Full Stack Web Application',
 		img: fullstack,
-		github: "https://github.com/AbdullahAlAlif/LMS_drf_react",
+		github: "https://github.com/AbdullahAlAlif/CMS_drf_react",
 	},
 ];
